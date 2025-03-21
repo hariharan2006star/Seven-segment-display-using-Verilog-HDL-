@@ -68,7 +68,8 @@ endmodule
 ```
 ## Simulated Output
 
-![Uploading 370673807-46fc8684-c3d5-4807-88a1-2dbebf974be5.png…]()
+![370673807-46fc8684-c3d5-4807-88a1-2dbebf974be5](https://github.com/user-attachments/assets/dfd80455-a9a6-42cb-8777-d021dc8dc2fc)
+
 
 ## Testbench for Seven-Segment Display
 ```verilog
