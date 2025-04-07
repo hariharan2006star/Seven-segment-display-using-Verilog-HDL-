@@ -1,6 +1,6 @@
 
-##NAME: HARIHARAN N
-##REG NO: 212223060079
+## NAME: HARIHARAN N
+## REG NO: 212223060079
 
 # Seven-Segment Display Driver using Verilog HDL
 
